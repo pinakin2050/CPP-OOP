@@ -24,5 +24,8 @@
     <ClCompile Include="GlobalFriendFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FriendFnsLCO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

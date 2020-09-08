@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FriendClass.cpp" />
+    <ClCompile Include="FriendFnsLCO.cpp" />
     <ClCompile Include="FriendFunction.cpp" />
     <ClCompile Include="GlobalFriendFunction.cpp" />
   </ItemGroup>

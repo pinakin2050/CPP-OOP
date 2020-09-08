@@ -139,11 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DifferentTypesOfConstructor.cpp" />
     <ClCompile Include="Hierarchical.cpp" />
     <ClCompile Include="Hybrid.cpp" />
     <ClCompile Include="Multilevel.cpp" />
     <ClCompile Include="Multiple.cpp" />
+    <ClCompile Include="MultipleInheritanceLCO.cpp" />
     <ClCompile Include="SizeofEmptyClass.cpp" />
+    <ClCompile Include="ThisPointer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

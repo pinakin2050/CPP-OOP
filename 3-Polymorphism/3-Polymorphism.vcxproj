@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaseDerivedAndOverridingLCO.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="OperatorOverloading.cpp" />
     <ClCompile Include="VirtualFns.cpp" />
     <ClCompile Include="VirtualFnsApplication.cpp" />
+    <ClCompile Include="VirtualMethodLCO.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
